@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SignatureDragable</string>
+    <string name="txt_add_signature_to_pdf">Please Select PDF To Add Signature</string>
+</resources>
